@@ -1,0 +1,322 @@
+[
+  {
+    "name": null,
+    "location": "Little Italy",
+    "main_characteristics": [
+      "Sunny",
+      "2 floors",
+      "20' ceiling in the loft",
+      "Converted from an old car garage and adjoining shed",
+      "Eclectic decor",
+      "Urban yet quiet and private",
+      "Modern space"
+    ],
+    "type": "Tiny-House",
+    "size": "2 floors",
+    "capacity": null,
+    "key_amenities": [
+      "Cozy kitchen",
+      "Scandi-style wood table",
+      "Skylight window",
+      "Heated concrete floors",
+      "Living room",
+      "Outdoor patio"
+    ],
+    "proximity_highlights": [
+      "Jean Talon market (less than a five minute walk)",
+      "Coffee shops",
+      "Cafes",
+      "Restaurants",
+      "Churches"
+    ],
+    "row_index": 729,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": null,
+    "main_characteristics": [
+      "Sleek kitchen with monochrome and marble accents",
+      "High-end finish with crisp white accents",
+      "Master bedroom with king size bed and private balcony",
+      "Second bedroom with bunk bed",
+      "Living area with couch"
+    ],
+    "type": "home",
+    "size": null,
+    "capacity": "5",
+    "key_amenities": [
+      "Fully equipped kitchen",
+      "Stainless steel appliances",
+      "Granite countertops",
+      "TV with Netflix",
+      "Jacuzzi tub",
+      "Private balcony",
+      "Combination lock / Self check-in",
+      "Noise decibel sensors",
+      "On-site security"
+    ],
+    "proximity_highlights": [
+      "Bakery",
+      "Supermarket"
+    ],
+    "row_index": 883,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": "NDG, Montreal",
+    "main_characteristics": [
+      "Restored 1920s architecture (built in 1923)",
+      "Fully renovated in 2017",
+      "Original wood details throughout",
+      "Contemporary furnishings",
+      "Second-storey walk-up",
+      "Double parlour and historic dining room"
+    ],
+    "type": "Apartment",
+    "size": "Very large",
+    "capacity": null,
+    "key_amenities": [
+      "Private back patio deck",
+      "Weber propane barbecue",
+      "Fully stocked modern kitchen",
+      "High speed Fiber optic internet",
+      "Smart TV with keyboard and streaming (Netflix, Disney+)",
+      "HEPA Air purifier",
+      "EV charging",
+      "Parking on premises",
+      "Washer",
+      "Dryer",
+      "Dishwasher",
+      "Board games and books"
+    ],
+    "proximity_highlights": [],
+    "row_index": 835,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": null,
+    "main_characteristics": [
+      "brand-new",
+      "spacious",
+      "high-end",
+      "quiet",
+      "cozy",
+      "luxurious",
+      "mixes modern and traditional decor"
+    ],
+    "type": "condo",
+    "size": null,
+    "capacity": null,
+    "key_amenities": [
+      "air conditioning",
+      "gray marble bathroom",
+      "crisp white corner sofa",
+      "closets",
+      "standing shower",
+      "fully equipped modern kitchen",
+      "stainless steel appliances",
+      "granite countertops",
+      "kitchen island with 3 bar stools",
+      "open living and dining area",
+      "noise decibel sensors",
+      "on-site security"
+    ],
+    "proximity_highlights": [],
+    "row_index": 912,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": "Montreal",
+    "main_characteristics": [
+      "Comfortable Queen-size bed with clean sheets and soft pillows",
+      "Fully equipped bathroom",
+      "Fully operational kitchen",
+      "Surrounded by parks and green space"
+    ],
+    "type": null,
+    "size": null,
+    "capacity": null,
+    "key_amenities": [
+      "Queen-size bed",
+      "Sheets and pillows",
+      "Fully equipped bathroom",
+      "Extra towels",
+      "Fully operational kitchen"
+    ],
+    "proximity_highlights": [
+      "Maxi grocery store (1 minute walk)",
+      "Convenience store beside the building",
+      "McDonald's restaurant in front of the building",
+      "Promenade Masson",
+      "Parks and community pool",
+      "Bus station in front of the building (Bus #94)",
+      "Metro Iberville and Metro Frontenac (5 minutes by bus)",
+      "Downtown (9 minutes drive)",
+      "Old Montreal (10 minutes drive)",
+      "Biodome",
+      "Olympic Stadium"
+    ],
+    "row_index": 1035,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": null,
+    "main_characteristics": [
+      "Quiet comforts",
+      "Centrally located",
+      "Large wall of windows",
+      "Dark wood floors",
+      "Minimalist touches",
+      "5-star hotel experience style",
+      "32 days minimum stay"
+    ],
+    "type": "apartment",
+    "size": "600 square feet",
+    "capacity": null,
+    "key_amenities": [
+      "Balcony with downtown/city views",
+      "Indoor garage (max car length 195 inches)",
+      "Top of the line king size mattress",
+      "700 thread count Egyptian cotton linens",
+      "SPA towels and Kiehl’s toiletries",
+      "70 inch Ultra HD TV",
+      "Modern and designer furniture"
+    ],
+    "proximity_highlights": [
+      "Old Montreal",
+      "China Town",
+      "Downtown"
+    ],
+    "row_index": 1040,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": "Montreal",
+    "main_characteristics": [
+      "Soft and comfortable Queen size bed",
+      "Fully equipped bathroom",
+      "Fully operational kitchen"
+    ],
+    "type": null,
+    "size": null,
+    "capacity": null,
+    "key_amenities": [
+      "Queen size bed",
+      "Bed sheets and pillows",
+      "Fully equipped bathroom",
+      "Extra towels",
+      "Fully operational kitchen"
+    ],
+    "proximity_highlights": [
+      "Maxi grocery store (1 min walk)",
+      "Convenience store beside building",
+      "McDonald's in front of building",
+      "Promenade Masson",
+      "Parks and community pool",
+      "Bus station in front of building (Bus #94)",
+      "Metro Iberville (5 minutes by bus)",
+      "Metro Frontenac (5 minutes by bus)",
+      "Downtown (9 minutes drive)",
+      "Old Montreal (10 minutes drive)",
+      "Biodome",
+      "Olympic Stadium"
+    ],
+    "row_index": 1017,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": "downtown",
+    "main_characteristics": [
+      "bathroom",
+      "WC",
+      "bedroom / living room / kitchen"
+    ],
+    "type": null,
+    "size": null,
+    "capacity": null,
+    "key_amenities": [
+      "iron & ironing board",
+      "bed linen & towels",
+      "air conditioning",
+      "elevator",
+      "heating",
+      "washing machine",
+      "cable tv",
+      "cookware & kitchen utensils",
+      "lcd flat screen tv",
+      "complimentary soap/shampoo/conditioner",
+      "closets in room"
+    ],
+    "proximity_highlights": [
+      "downtown"
+    ],
+    "row_index": 1352,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": null,
+    "main_characteristics": [
+      "Decorated with a designer's flair",
+      "Tones of silver and white, punctuated by glass and mirrors",
+      "Upscale and inviting atmosphere",
+      "Originally built in 1929, recently transformed into newly built, high-end condominiums",
+      "Magnificent lobby entrance contrasting with modern unit design"
+    ],
+    "type": "condo",
+    "size": null,
+    "capacity": null,
+    "key_amenities": [
+      "BBQ",
+      "Secret balcony",
+      "Noise decibel sensors",
+      "On-site security",
+      "Shared terrace",
+      "Hot tub",
+      "Kitchen"
+    ],
+    "proximity_highlights": [],
+    "row_index": 1200,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": "Saint-Henri, Montreal",
+    "main_characteristics": [
+      "bright",
+      "modern",
+      "luxury furnishings"
+    ],
+    "type": "home",
+    "size": null,
+    "capacity": null,
+    "key_amenities": [
+      "free street parking",
+      "backyard",
+      "crisp linens",
+      "high-speed Wi-Fi",
+      "kitchen essentials",
+      "bath essentials",
+      "television",
+      "Apple TV",
+      "keycode check-in"
+    ],
+    "proximity_highlights": [
+      "steps away from the city's best restaurants",
+      "near public transit",
+      "a hop away from the downtown core",
+      "16km (10 miles) from the airport",
+      "7min walk to the subway",
+      "8min drive to downtown"
+    ],
+    "row_index": 1432,
+    "description_length": 1000
+  }
+]

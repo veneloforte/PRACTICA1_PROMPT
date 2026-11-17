@@ -1,0 +1,303 @@
+[
+  {
+    "name": null,
+    "location": "Little Italy",
+    "main_characteristics": [
+      "2 floors",
+      "20' ceiling in the loft",
+      "Converted from an old car garage and adjoining shed",
+      "Eclectic decor",
+      "Sunny",
+      "Urban yet quiet and private"
+    ],
+    "type": "Tiny-House",
+    "size": "2 floors",
+    "capacity": null,
+    "key_amenities": [
+      "Kitchen",
+      "Heated concrete floors",
+      "Living room",
+      "Outdoor patio",
+      "Skylight window"
+    ],
+    "proximity_highlights": [
+      "Less than a five minute walk to Jean Talon market",
+      "Coffee shops",
+      "Cafes",
+      "Restaurants",
+      "Churches"
+    ],
+    "row_index": 729,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": null,
+    "main_characteristics": [
+      "High-end finish with monochrome and marble accents",
+      "Two bedrooms",
+      "Strict no-party policy with noise decibel sensors and on-site security",
+      "Flexible self check-in"
+    ],
+    "type": "home",
+    "size": null,
+    "capacity": "5 guests",
+    "key_amenities": [
+      "Fully equipped kitchen",
+      "Stainless steel appliances",
+      "Granite countertops",
+      "TV with Netflix",
+      "Private balcony",
+      "Jacuzzi tub"
+    ],
+    "proximity_highlights": [
+      "Bakery",
+      "Supermarket"
+    ],
+    "row_index": 883,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": "NDG, Montreal",
+    "main_characteristics": [
+      "Classic Montreal architecture built in 1923",
+      "Restored 1920s space fully renovated in 2017",
+      "Original wood details throughout",
+      "Contemporary furnishings",
+      "Second-storey walk-up",
+      "Double parlour and historic dining room"
+    ],
+    "type": "Apartment",
+    "size": "Very large",
+    "capacity": null,
+    "key_amenities": [
+      "Private furnished backyard deck",
+      "Weber propane barbecue",
+      "Fully stocked modern kitchen",
+      "High-speed Fiber optic internet / Free Wi-Fi",
+      "Smart TV with keyboard, Netflix, and Disney+",
+      "HEPA Air purifier",
+      "Washer and dryer",
+      "Dishwasher",
+      "EV charging and parking on premises",
+      "Board games and books"
+    ],
+    "proximity_highlights": [],
+    "row_index": 835,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": null,
+    "main_characteristics": [
+      "Brand-new",
+      "Spacious",
+      "High-end luxury",
+      "Quiet and cozy",
+      "Modern and traditional decor",
+      "3 bedrooms"
+    ],
+    "type": "Condo",
+    "size": null,
+    "capacity": null,
+    "key_amenities": [
+      "Air conditioning",
+      "Gray marble bathroom",
+      "Fully equipped modern kitchen",
+      "Stainless steel appliances",
+      "Granite countertops",
+      "Kitchen island with 3 bar stools",
+      "Standing shower",
+      "Closets",
+      "Corner sofa",
+      "Noise decibel sensors",
+      "On-site security"
+    ],
+    "proximity_highlights": [],
+    "row_index": 912,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": "Montreal",
+    "main_characteristics": [
+      "Comfortable Queen size bed",
+      "Fully equipped bathroom",
+      "Fully operational kitchen",
+      "Surrounded by parks and green space"
+    ],
+    "type": null,
+    "size": null,
+    "capacity": null,
+    "key_amenities": [
+      "Queen size bed",
+      "Sheets and pillows",
+      "Fully equipped bathroom",
+      "Extra towels",
+      "Fully operational kitchen"
+    ],
+    "proximity_highlights": [
+      "1 minute walk to Maxi grocery store",
+      "Convenience store beside the building",
+      "McDonald's restaurant in front of the building",
+      "Close to Promenade Masson",
+      "Near parks and community pool",
+      "Bus station in front of the building (Bus #94)",
+      "5 minutes to Metro Iberville or Metro Frontenac",
+      "9 minutes drive to downtown",
+      "10 minutes drive to Old Montreal",
+      "Close to Biodome and Olympic Stadium"
+    ],
+    "row_index": 1035,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": "Montreal",
+    "main_characteristics": [
+      "Centrally located",
+      "Large wall of windows",
+      "Dark wood floors",
+      "Designer furniture and minimalist touches",
+      "5-star hotel experience",
+      "Minimum 32 days stay"
+    ],
+    "type": "condo",
+    "size": "600 square feet",
+    "capacity": null,
+    "key_amenities": [
+      "Balcony with city views",
+      "Indoor garage",
+      "Top of the line king size mattress",
+      "700 thread count Egyptian cotton linens",
+      "SPA towels and Kiehl’s toiletries",
+      "70 inch Ultra HD TV"
+    ],
+    "proximity_highlights": [
+      "Walking distance to Old Montreal",
+      "Walking distance to China Town",
+      "Walking distance to Downtown"
+    ],
+    "row_index": 1040,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": "Montreal",
+    "main_characteristics": [
+      "Queen size bed",
+      "Fully equipped bathroom",
+      "Fully operational kitchen"
+    ],
+    "type": null,
+    "size": null,
+    "capacity": null,
+    "key_amenities": [
+      "Queen size bed",
+      "Clean sheets and soft pillows",
+      "Fully equipped bathroom",
+      "Extra towels",
+      "Fully operational kitchen"
+    ],
+    "proximity_highlights": [
+      "Maxi grocery store 1 minute walk away",
+      "Convenience store beside the building",
+      "McDonald's in front of the building",
+      "Close to Promenade Masson",
+      "Parks and community pool nearby",
+      "Bus station in front of the building (Bus #94 to Metro Iberville and Metro Frontenac)",
+      "9 minutes drive to downtown",
+      "10 minutes drive to Old Montreal",
+      "Close to Biodome and Olympic Stadium"
+    ],
+    "row_index": 1017,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": "downtown",
+    "main_characteristics": [
+      "bathroom",
+      "WC",
+      "bedroom / living room / kitchen"
+    ],
+    "type": null,
+    "size": null,
+    "capacity": null,
+    "key_amenities": [
+      "iron & ironing board",
+      "bed linen & towels",
+      "air conditioning",
+      "elevator",
+      "heating",
+      "washing machine",
+      "cable tv",
+      "cookware & kitchen utensils",
+      "complimentary soap/shampoo/conditioner",
+      "lcd flat screen tv",
+      "closets in room"
+    ],
+    "proximity_highlights": [
+      "downtown"
+    ],
+    "row_index": 1352,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": null,
+    "main_characteristics": [
+      "Decorated with a designer's flair",
+      "Tones of silver and white, punctuated by glass and mirrors",
+      "Historic building built in 1929 transformed into high-end condominiums",
+      "Modern interior design with a historic lobby entrance",
+      "Protected by noise decibel sensors and on-site security"
+    ],
+    "type": "condo",
+    "size": null,
+    "capacity": null,
+    "key_amenities": [
+      "BBQ",
+      "Secret balcony",
+      "Shared terrace",
+      "Hot tub (upon request)",
+      "Kitchen"
+    ],
+    "proximity_highlights": [],
+    "row_index": 1200,
+    "description_length": 1000
+  },
+  {
+    "name": null,
+    "location": "Saint-Henri, Montreal",
+    "main_characteristics": [
+      "Bright and modern",
+      "Luxury furnishings",
+      "Beautiful backyard"
+    ],
+    "type": "home",
+    "size": null,
+    "capacity": null,
+    "key_amenities": [
+      "Free street parking",
+      "High-speed Wi-Fi",
+      "Kitchen & bath essentials",
+      "Crisp linens",
+      "Television",
+      "Apple TV",
+      "Keycode check-in",
+      "Backyard"
+    ],
+    "proximity_highlights": [
+      "Steps away from the city's best restaurants",
+      "Near public transit",
+      "A hop away from the downtown core",
+      "16km (10 miles) from the airport",
+      "7min walk to the subway",
+      "8min drive to downtown"
+    ],
+    "row_index": 1432,
+    "description_length": 1000
+  }
+]

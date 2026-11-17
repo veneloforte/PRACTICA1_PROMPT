@@ -1,0 +1,341 @@
+[
+  {
+    "cleanliness": "negative",
+    "location": "neutral",
+    "value_for_money": "negative",
+    "host_interaction": "negative",
+    "overall_sentiment": "negative",
+    "key_points": [
+      "El apartamento es bonito y tiene potencial, pero está mal gestionado",
+      "Falta de elementos básicos como jabón de baño, champú y detergente para la lavadora",
+      "Problemas de mantenimiento: asiento de inodoro suelto, silla rota, toalla rasgada y dispensador roto",
+      "Pésimo proceso de check-in que obliga a recoger las llaves en otra parte de la ciudad",
+      "Mala atención al cliente, desviando la resolución de problemas fuera de la plataforma de Airbnb"
+    ],
+    "summary": "Aunque el apartamento en sí es espacioso y bien equipado, la experiencia del huésped fue muy negativa debido a la pésima gestión: cobros elevados sin incluir elementos básicos, falta de mantenimiento en el mobiliario, un servicio de soporte deficiente y un proceso de recogida de llaves sumamente incómodo.",
+    "row_index": 2000,
+    "comment_length": 2976
+  },
+  {
+    "cleanliness": "positive",
+    "location": "positive",
+    "value_for_money": "positive",
+    "host_interaction": "positive",
+    "overall_sentiment": "positive",
+    "key_points": [
+      "El anfitrión Fábio fue muy atento, respondió preguntas y dejó obsequios de bienvenida.",
+      "El apartamento está recientemente remodelado con altos estándares y bien equipado.",
+      "Excelente ubicación a 5 minutos a pie de la estación de metro Sao Bento y cerca de comercios.",
+      "El dormitorio es tranquilo, aunque el colchón es duro y la cama puede resultar corta para personas altas.",
+      "El baño es pequeño y la presión del agua es moderada pero suficiente."
+    ],
+    "summary": "Estancia muy positiva en un apartamento recientemente remodelado y bien ubicado en Oporto, destacando la extraordinaria atención y hospitalidad del anfitrión Fábio.",
+    "row_index": 3876,
+    "comment_length": 2392
+  },
+  {
+    "cleanliness": "neutral",
+    "location": "positive",
+    "value_for_money": "neutral",
+    "host_interaction": "positive",
+    "overall_sentiment": "neutral",
+    "key_points": [
+      "Excelente ubicación cerca del metro y cafetería recomendada debajo del edificio.",
+      "Trato excepcional y flexibilidad de check-in por parte del anfitrión Pedro.",
+      "Colchón del sofá cama sumamente incómodo que causó dolor de espalda.",
+      "Falta de artículos básicos de cocina (aceite, sal, café) para estancias cortas.",
+      "Problemas de mantenimiento en el baño con la cortina de la ducha que provocó inundaciones.",
+      "Apartamento espacioso con una agradable terraza en la azotea."
+    ],
+    "summary": "El huésped valora positivamente la ubicación, la terraza y la gran atención de Pedro, pero tuvo una experiencia mixta debido a la falta de insumos básicos en la cocina, problemas con la cortina del baño y, sobre todo, un colchón de sofá cama muy incómodo.",
+    "row_index": 2456,
+    "comment_length": 2226
+  },
+  {
+    "cleanliness": "neutral",
+    "location": "positive",
+    "value_for_money": "neutral",
+    "host_interaction": "positive",
+    "overall_sentiment": "positive",
+    "key_points": [
+      "Vistas impresionantes al río Duero, Oporto y Gaia",
+      "Ubicación accesible a pie para las principales atracciones y restaurantes",
+      "Excelente atención y recomendaciones por parte de la anfitriona Maggie",
+      "Acceso al medio baño únicamente a través del balcón",
+      "Ruido notable de tráfico nocturno en los dormitorios"
+    ],
+    "summary": "El huésped disfrutó mucho de su estancia destacando las increíbles vistas, la ubicación estratégica y la hospitalidad de la anfitriona, señalando como detalles menores el ruido del tráfico nocturno y la particular ubicación del medio baño en el balcón.",
+    "row_index": 1908,
+    "comment_length": 2011
+  },
+  {
+    "cleanliness": "negative",
+    "location": "negative",
+    "value_for_money": "negative",
+    "host_interaction": "negative",
+    "overall_sentiment": "negative",
+    "key_points": [
+      "Retraso en la limpieza y ausencia de llaves a la hora prevista de check-in",
+      "Zona poco confiable con mención explícita de robos recientes",
+      "La habitación no coincidía con las fotografías publicadas",
+      "Fuga grave de agua en el plato de ducha que inundó el baño y la habitación",
+      "Falta de agua caliente y anfitrión que ignoró llamadas y mensajes"
+    ],
+    "summary": "Experiencia completamente negativa debido a retrasos en el check-in, pésima comunicación del anfitrión, zona insegura, discrepancia con las fotos y problemas graves con las instalaciones como inundaciones y falta de agua caliente.",
+    "row_index": 1636,
+    "comment_length": 1928
+  },
+  {
+    "cleanliness": "positive",
+    "location": "positive",
+    "value_for_money": "neutral",
+    "host_interaction": "positive",
+    "overall_sentiment": "neutral",
+    "key_points": [
+      "Excelente comunicación y detalle de bienvenida con vino de Oporto",
+      "Cama muy cómoda y buena ubicación cerca del río Duero y servicios",
+      "Servicio de limpieza y cambio de sábanas incluido en estancias largas",
+      "Falta notable de luz natural y ventilación",
+      "Mala acústica con ruidos y portazos de los vecinos de arriba",
+      "Bañera anunciada fuera de servicio",
+      "Recomendado para estancias cortas, pero no para estancias largas"
+    ],
+    "summary": "Los huéspedes valoran positivamente la atención de los anfitriones, la ubicación y la comodidad de la cama, pero señalan importantes inconvenientes de iluminación, ventilación y ruido, recomendando el alojamiento únicamente para estancias cortas.",
+    "row_index": 205,
+    "comment_length": 1846
+  },
+  {
+    "cleanliness": "negative",
+    "location": "neutral",
+    "value_for_money": "neutral",
+    "host_interaction": "positive",
+    "overall_sentiment": "negative",
+    "key_points": [
+      "Shower overflows quickly due to poor drainage",
+      "No heating during cold November temperatures",
+      "Kitchen lacked dish soap and sponges for washing dishes",
+      "No trash bin or waste disposal instructions provided",
+      "Found previous guests' negative review left on the table",
+      "Lamps lacked lightbulbs unlike the listing photos",
+      "Host communication was good and helpful regarding parking"
+    ],
+    "summary": "The guest found the apartment adequate for the price with good host communication, but experienced significant discomfort due to a lack of heating, an overflowing shower, missing cleaning supplies, and decorative lamps without lightbulbs.",
+    "row_index": 1963,
+    "comment_length": 1817
+  },
+  {
+    "cleanliness": "neutral",
+    "location": "neutral",
+    "value_for_money": "positive",
+    "host_interaction": "positive",
+    "overall_sentiment": "positive",
+    "key_points": [
+      "Apartamento bien distribuido, equipado y con parking, ideal para estancias con coche.",
+      "Inconveniente y falta de aviso previo sobre tener que recoger las llaves en el centro de Porto.",
+      "Entorno con contrastes sociales y zonas conflictivas cercanas, aunque la zona concreta del apartamento es tranquila y segura.",
+      "Buena relación calidad-precio y comunicación fluida con la empresa gestora."
+    ],
+    "summary": "El huésped valora positivamente el equipamiento, la relación calidad-precio y la comunicación con la empresa, considerando el alojamiento ideal si se viaja en coche. Como puntos negativos señala la gestión de recogida de llaves en el centro y advierte sobre los contrastes y zonas marginales en las inmediaciones del barrio.",
+    "row_index": 4992,
+    "comment_length": 1808
+  },
+  {
+    "cleanliness": "neutral",
+    "location": "positive",
+    "value_for_money": "positive",
+    "host_interaction": "neutral",
+    "overall_sentiment": "positive",
+    "key_points": [
+      "Excelente ubicación junto a la estación de metro Marquês y comercios cercanos.",
+      "Apartamento idéntico a las fotos, muy bien equipado y con aire acondicionado.",
+      "Balcón agradable y cama muy cómoda.",
+      "Ruido menor de autobuses con ventanas abiertas y falta puntual de cuencos.",
+      "Muy buena relación calidad-precio y recomendación total."
+    ],
+    "summary": "Estancia excelente de 4 días en Oporto; los huéspedes destacan la inmejorable ubicación junto al metro, el completo equipamiento del apartamento y la gran relación calidad-precio, restando importancia a pequeños detalles como el ruido exterior puntual.",
+    "row_index": 4707,
+    "comment_length": 1795
+  },
+  {
+    "cleanliness": "positive",
+    "location": "positive",
+    "value_for_money": "neutral",
+    "host_interaction": "positive",
+    "overall_sentiment": "positive",
+    "key_points": [
+      "Apartamento limpio, luminoso, bien equipado y convenientemente ubicado cerca del metro Trindade.",
+      "Excelente atención y comunicación por parte del anfitrión (organizó traslados, compras y salida tardía).",
+      "Falta de privacidad en los baños debido a paredes de cristal transparente hacia los dormitorios.",
+      "Camas cómodas y zona tranquila que aseguró un buen descanso.",
+      "El anfitrión respondió rápidamente reemplazando los asientos del comedor por sillas más cómodas."
+    ],
+    "summary": "Estancia muy positiva destacando la magnífica atención del anfitrión y la ubicación tranquila y céntrica, aunque con una queja recurrente sobre la falta de privacidad en las duchas acristaladas.",
+    "row_index": 1957,
+    "comment_length": 1781
+  },
+  {
+    "cleanliness": "positive",
+    "location": "positive",
+    "value_for_money": "neutral",
+    "host_interaction": "positive",
+    "overall_sentiment": "positive",
+    "key_points": [
+      "La anfitriona Joana fue sumamente atenta y ofreció excelentes recomendaciones locales.",
+      "El apartamento estaba impecable, seguro y completamente equipado para cocinar.",
+      "Buena ubicación, a 10-15 minutos caminando del metro y con fácil acceso a atracciones turísticas.",
+      "Distribución en dos plantas con balcón agradable, espacio de almacenaje amplio y buena presión de agua."
+    ],
+    "summary": "El huésped tuvo una experiencia excelente, destacando la limpieza impecable, las comodidades de la casa de dos plantas, su buena ubicación y la sobresaliente amabilidad y atención de la anfitriona.",
+    "row_index": 2371,
+    "comment_length": 1713
+  },
+  {
+    "cleanliness": "positive",
+    "location": "positive",
+    "value_for_money": "positive",
+    "host_interaction": "positive",
+    "overall_sentiment": "positive",
+    "key_points": [
+      "Limpieza impecable y habitaciones recién renovadas con diseño moderno y acogedor",
+      "Trato excepcional y cercano por parte de los anfitriones Elena y Francesco",
+      "Ubicación tranquila a 15 minutos a pie del centro de Oporto con aparcamiento gratuito",
+      "Excelentes comodidades: cama cómoda, gran ducha, wifi de alta velocidad y amplia cocina compartida"
+    ],
+    "summary": "Estancia sobresaliente en la que los huéspedes destacan sentirse como en casa gracias a la cálida atención de los anfitriones, la limpieza impoluta, el confort de las instalaciones y una ubicación muy conveniente.",
+    "row_index": 179,
+    "comment_length": 1656
+  },
+  {
+    "cleanliness": "positive",
+    "location": "positive",
+    "value_for_money": "positive",
+    "host_interaction": "positive",
+    "overall_sentiment": "positive",
+    "key_points": [
+      "Ubicación céntrica inmejorable, a pocos minutos de servicios y transporte.",
+      "Apartamento espacioso, elegante, moderno y con vistas al río.",
+      "Cocina totalmente equipada y comodidades de alta calidad.",
+      "Habitaciones confortables con camas nuevas y dos baños completos con duchas potentes.",
+      "Recomendaciones útiles sobre locales cercanos y acceso al ascensor."
+    ],
+    "summary": "Reseña sumamente positiva que elogia la excelente ubicación en el centro de Oporto, las vistas, la comodidad de las habitaciones y las modernas instalaciones del apartamento de Mariana.",
+    "row_index": 2468,
+    "comment_length": 1655
+  },
+  {
+    "cleanliness": "negative",
+    "location": "positive",
+    "value_for_money": "neutral",
+    "host_interaction": "positive",
+    "overall_sentiment": "positive",
+    "key_points": [
+      "Host was extremely helpful, welcoming, and provided great local recommendations",
+      "Spectacular views and excellent walking location to attractions",
+      "Apartment had notable dampness, moldy smell, and wet towels",
+      "Bed was uncomfortable with a thin mattress and loud squeaks",
+      "Yard was not as well maintained as in photos"
+    ],
+    "summary": "Guests thoroughly enjoyed their stay and praised the incredible views, location, and host hospitality, despite issues with interior dampness, a moldy smell, and an uncomfortable bed.",
+    "row_index": 3639,
+    "comment_length": 1650
+  },
+  {
+    "cleanliness": "negative",
+    "location": "positive",
+    "value_for_money": "negative",
+    "host_interaction": "negative",
+    "overall_sentiment": "negative",
+    "key_points": [
+      "Ubicación céntrica inmejorable, aunque ruidosa",
+      "Graves problemas de limpieza: pelos en las sábanas y suelo muy sucio",
+      "Fuga de agua en el lavabo que gotea al suelo",
+      "No apto para tres personas: sofá cama ruidoso e inestable y falta de ropa de cama",
+      "Mala atención por parte de la central ante la falta de suministros básicos"
+    ],
+    "summary": "Aunque la ubicación es excelente y el check-in presencial fue amable, la estancia fue deficiente debido a la falta de limpieza, problemas de fontanería, equipamiento insuficiente para tres personas y un mal servicio de atención al cliente.",
+    "row_index": 47,
+    "comment_length": 1642
+  },
+  {
+    "cleanliness": "positive",
+    "location": "positive",
+    "value_for_money": "positive",
+    "host_interaction": "positive",
+    "overall_sentiment": "positive",
+    "key_points": [
+      "Apartamento muy espacioso y limpio con 4 dormitorios y 2 baños, perfecto para grupos grandes.",
+      "Buena ubicación con fácil acceso al centro en metro o taxi/Uber en menos de 10 minutos.",
+      "Detalle de bienvenida de la anfitriona con alimentos básicos (pan, leche, huevos), café y una botella de vino de Oporto."
+    ],
+    "summary": "Estancia excelente para un grupo de seis personas gracias al gran espacio, limpieza y comodidad del apartamento, complementado por los atentos detalles de bienvenida de la anfitriona y una buena conexión con el centro de Oporto.",
+    "row_index": 338,
+    "comment_length": 1565
+  },
+  {
+    "cleanliness": "positive",
+    "location": "positive",
+    "value_for_money": "neutral",
+    "host_interaction": "positive",
+    "overall_sentiment": "positive",
+    "key_points": [
+      "Excelente ubicación cerca de la estación de tren, metro y puntos turísticos.",
+      "Apartamento limpio, amplio, luminoso, bien equipado y con diseño cuidado.",
+      "Trato excepcional por parte del anfitrión, muy atento y con recomendaciones útiles.",
+      "No cuenta con lavadora, aunque hay lavanderías cercanas."
+    ],
+    "summary": "Estancia impecable en un apartamento espacioso, limpio y bien ubicado, destacando la extraordinaria amabilidad y atención de los anfitriones.",
+    "row_index": 4495,
+    "comment_length": 1481
+  },
+  {
+    "cleanliness": "negative",
+    "location": "positive",
+    "value_for_money": "neutral",
+    "host_interaction": "neutral",
+    "overall_sentiment": "negative",
+    "key_points": [
+      "Buena ubicación y recibimiento inicial amable",
+      "El apartamento es extremadamente frío y la calefacción es insuficiente",
+      "Problemas de limpieza y mantenimiento en baño y cocina",
+      "Inconvenientes con la fianza de las llaves al no estar presente el anfitrión en el check-out"
+    ],
+    "summary": "A pesar de la buena ubicación y un check-in cordial, la estancia se vio afectada negativamente por el frío intenso, la falta de calefacción adecuada, olores a humedad, suciedad en el baño y la no devolución a tiempo del depósito de las llaves.",
+    "row_index": 3007,
+    "comment_length": 1447
+  },
+  {
+    "cleanliness": "positive",
+    "location": "positive",
+    "value_for_money": "neutral",
+    "host_interaction": "positive",
+    "overall_sentiment": "positive",
+    "key_points": [
+      "Alojamiento limpio, tranquilo y con ascensor",
+      "Fácil aparcamiento en la zona",
+      "Vistas espectaculares que coinciden con las fotos",
+      "Cercano a las orillas del Duero, aunque con una cuesta empinada de regreso",
+      "Anfitriona amable y muy resolutiva ante cualquier petición",
+      "Se sugiere mejorar la cantidad de ropa blanca y de utensilios de cocina"
+    ],
+    "summary": "Experiencia muy positiva y recomendada para parejas, destacando la limpieza, la tranquilidad, las vistas increíbles y la buena atención de la anfitriona, con leves sugerencias de mejora en menaje y toallas.",
+    "row_index": 2630,
+    "comment_length": 1434
+  },
+  {
+    "cleanliness": "negative",
+    "location": "positive",
+    "value_for_money": "negative",
+    "host_interaction": "neutral",
+    "overall_sentiment": "negative",
+    "key_points": [
+      "Excelente ubicación con vistas impresionantes al río Duero",
+      "Grave problema de moho insalubre en el baño",
+      "Instalaciones y electrodomésticos rotos o deteriorados (cafetera, extractor, suelo dañado)",
+      "Higiene deficiente: esponja con moho y jabón usado en la ducha",
+      "Falta de lavadora anunciada y la cama no era King como se describía"
+    ],
+    "summary": "A pesar de la excelente ubicación y las hermosas vistas, la experiencia fue muy negativa debido a la falta de mantenimiento, electrodomésticos rotos y graves problemas de suciedad y moho.",
+    "row_index": 3973,
+    "comment_length": 1423
+  }
+]
